@@ -10,7 +10,7 @@ Its pretty easy, go the code.js file and copy it, go to a code hosting site like
 **LINK TEMPLATE : https://(replit dev url )//?redirect=(site to redirect too to hide)**
 
 
-Youtube TUTORIAL : https://www.youtube.com/watch?v=kWkaQeIfziE
+Youtube TUTORIAL : https://youtu.be/TkWBNnkDLQ0?si=yepM9DjP40uNMJ05 ( updated video )
 
 discord.gg/redware-v2-1322149441607827467
 
